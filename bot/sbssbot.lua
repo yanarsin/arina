@@ -232,7 +232,7 @@ function create_config( )
     "id",
     "tagall"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {163354254,172268740},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
