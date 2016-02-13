@@ -235,26 +235,26 @@ function create_config( )
     sudo_users = {163354254,172268740},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Sbss Bot V2 Beta
+    about_text = [[Cullen bot v3 ツ
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @Mr_Ah_S
+    @rastinblowndi
     Manager:
-    @amiirdada
+    @arina_er
     Founder:
-    @AmirQuick
+    @rastinblowndi
     
     Special Thank To:
-    Mehr Pouya
+    seyedan25
     Arman
     IM/-\N
-    Creed Is Dead
     
-    Powered By @Sbss_Team
+    
+    Powered By Cullensツ
     
     #Open Source
-    https://github.com/SbssTeam/Sbss
+    dont opern source ツ
 ]],
     help_text_realm = [[
 See Patterns In Github
@@ -332,7 +332,7 @@ __________________________
 —---------------------—
 نیاز نیست از '!' و '/' استفاده کنید*
 _______________________________
-Writed by SBSS Team
+Writed by Cullensツ
 ]]
   }
   serialize_to_file(config, './data/config.lua')
