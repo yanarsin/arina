@@ -254,7 +254,7 @@ function create_config( )
     Powered By Cullensツ
     
     #Open Source
-    dont opern source ツ
+    dont open source ツ
 ]],
     help_text_realm = [[
 See Patterns In Github
